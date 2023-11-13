@@ -6,5 +6,5 @@ Things to install
 - tmux
 - nvim
 - brew
-- power10k
+- oh my zsh power10k
 - git
